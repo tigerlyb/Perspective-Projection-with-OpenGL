@@ -1,4 +1,4 @@
-PerspectiveProjection-with-OpenGL
+Perspective Projection with OpenGL
 =================================
 
 I use Perspective Projection to display a pyramid cube and implement a function that rotates the pyramid cube by theta degrees about an arbitrary axis
